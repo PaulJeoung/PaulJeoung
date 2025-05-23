@@ -1,7 +1,7 @@
 <!-- 프로필 헤더 -->
 <h1 align="center">Hi there! 👋 I'm Paul Jeoung</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4CAF50&center=true&vCenter=true&width=600&lines=Fullstack+Server+%26+QA+Enginner;Java+%7C+Springboot+%7C+React.js+%7C+Automation;" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4CAF50&center=true&vCenter=true&width=600&lines=Fullstack+Server+%26+Client+Enginner;Java+%7C+Springboot+%7C+React.js+%7C+Automation;" alt="Typing SVG">
 </p>
 
 <!-- GitHub Stats -->
