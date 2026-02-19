@@ -4,12 +4,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4CAF50&center=true&vCenter=true&width=600&lines=Fullstack+Enginner;Java+%7C+node.js+%7C+Automation;" alt="Typing SVG">
 </p>
 
-<!-- GitHub Stats -->
-### 📊 GitHub Stats
-<p align="center">
+<!-- GitHub Stats ### 📊 GitHub Stats -->
+
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PaulJeoung&show_icons=true&theme=radical" height="180em"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulJeoung&layout=compact&theme=radical" height="180em"/>
-</p>
+</p> -->
 
 <!-- 기술 스택 -->
 ### 🛠 Tech Stack  
