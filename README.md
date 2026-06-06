@@ -1,86 +1,77 @@
-<!-- 프로필 헤더 -->
-<h1 align="center">Hi there! 👋 I'm Paul Jeoung</h1>
+<!-- 깔끔한 모던 프로필 헤더 -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4CAF50&center=true&vCenter=true&width=600&lines=Fullstack+Enginner;Java+%7C+node.js+%7C+Automation;" alt="Typing SVG">
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=1e293b&height=140&text=Paul%20Jeoung&fontSize=40&fontColor=ffffff" alt="Header" />
 </p>
 
-<!-- GitHub Stats ### 📊 GitHub Stats -->
-
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PaulJeoung&show_icons=true&theme=radical" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulJeoung&layout=compact&theme=radical" height="180em"/>
-</p> -->
-
-<!-- 기술 스택 -->
-### 🛠 Tech Stack  
-
-#### 🎨 Frontend  
-<p>
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SCSS-%23CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JSP-%23007396.svg?&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Servlet-%23FFA500.svg?&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/jQuery-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React.js-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&pause=1000&color=3b82f6&center=true&vCenter=true&width=600&lines=Fullstack+Engineer;Java+%7C+Node.js+%7C+Automation;" alt="Typing SVG">
 </p>
 
-#### 🖥️ Servers
-<p>
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-%2300B140.svg?&style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Shell-%2389E051.svg?&style=for-the-badge&logo=gnu-bash&logoColor=black"/>
-</p>
-
-#### 🗄️ Database  
-<p>
-  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MariaDB-%23003545.svg?&style=for-the-badge&logo=mariadb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/dynamoDB-%23DC382D.svg?&style=for-the-badge&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
-
-#### 💻 IDE & RPA Tools  
-<p>
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?&style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TortoiseSVN-%23000.svg?&style=for-the-badge&logo=subversion&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VSCode-%23007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Eclipse-%232C2255.svg?&style=for-the-badge&logo=eclipseide&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IntelliJ-%230000FF.svg?&style=for-the-badge&logo=intellijidea&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JMeter-%23D22128.svg?&style=for-the-badge&logo=apachejmeter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?&style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Appium-%236C61E6.svg?&style=for-the-badge&logo=appium&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TeraTerm-%23000080.svg?&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Selenium-%2343B02A.svg?&style=for-the-badge&logo=selenium&logoColor=white"/>
-  <img src="https://img.shields.io/badge/UiPath-%23FF6C37.svg?&style=for-the-badge&logo=uipath&logoColor=white"/>
-</p>
-
-#### 📑 Documentation & Collaboration  
-<p>
-  <img src="https://img.shields.io/badge/Notion-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Wiki-%23181717.svg?&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Jira-%230052CC.svg?&style=for-the-badge&logo=jira&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TestRail-%23FFCA28.svg?&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Slack-%234A154B.svg?&style=for-the-badge&logo=slack&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Zoom-%232D8CFF.svg?&style=for-the-badge&logo=zoom&logoColor=white"/>
-</p>
-
-#### 📚 Studying 📚
-<p>
-  <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/eGoverment-3578E5?style=for-the-badge&logo=eGoverment&logoColor=white" />&nbsp
-</p>
-
-<!-- 연락 -->
-### 📫 Contacts 
-<p>
-  <a href="mailto:kuni05@naver.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<p align="center">
+  <img src="https://img.shields.io/github/followers/PaulJeoung?label=Followers&style=flat&color=3b82f6" />
+  <img src="https://komarev.com/ghpvc/?username=PaulJeoung&label=Views&color=3b82f6&style=flat" alt="Visitor Count" />
 </p>
 
 ---
-<p align="center">Thanks for stopping by! 🚀✨</p>
+
+<!-- 100% 안정성이 검증된 미니멀 다크 통계 그래프 -->
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PaulJeoung&show_icons=true&theme=tokyonight&hide_border=true&title_color=3b82f6&icon_color=3b82f6" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulJeoung&layout=compact&theme=tokyonight&hide_border=true&title_color=3b82f6" height="160" />
+</p>
+
+---
+
+### 🛠 Tech Stack
+
+#### 🎨 Frontend
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+</p>
+
+#### 🖥️ Backend & Framework
+<p>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+</p>
+
+#### 🗄️ Database & Cloud
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon_DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white" />
+</p>
+
+#### 💻 Tools & Automation
+<p>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/UiPath-FF6C37?style=flat-square&logo=uipath&logoColor=white"/>
+</p>
+
+---
+
+### 📫 Contacts
+
+<p>
+  <a href="mailto:kuni05@naver.com">
+    <img src="https://img.shields.io/badge/kuni05@naver.com-1e293b?style=flat&logo=gmail&logoColor=white&label=Email" alt="Email" />
+  </a>
+</p>
+
+<br />
+
+<p align="center"><i>Driven by curiosity, powered by code. 🚀</i></p>
